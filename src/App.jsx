@@ -197,7 +197,7 @@ export default function App() {
         <h1>
           20<span>Q</span>
         </h1>
-        <p>The neural-net game that reads your mind</p>
+        <p>The game that reads your mind!</p>
       </header>
 
       <section className={`toy ${power ? 'on' : 'off'}`} aria-label="20Q toy">
