@@ -1,4 +1,4 @@
-# 21questions
+# 20 Questions
 
 A React remake of the 90s **20Q** toy: the glowing blue ball that guesses what you're thinking of in 20 questions.
 
